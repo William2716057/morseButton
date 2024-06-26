@@ -1,0 +1,3 @@
+C:\Users\Wills\source\repos\morseButton\morseButton\obj\Debug\morseButton.njsproj.AssemblyReference.cache
+C:\Users\Wills\source\repos\morseButton\morseButton\obj\Debug\morseButton.njsproj.CoreCompileInputs.cache
+C:\Users\Wills\source\repos\morseButton\morseButton\bin\Microsoft.NodejsTools.WebRole.dll
